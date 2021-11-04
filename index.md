@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Situs Slot Online Gacor Terbaru 2022
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+Daftar slot online yang paling gacor, temukan petualangan menarik memenangkan jackpot slot online hingga miliaran rupiah bahkan dengan modal kecil. Coba daftar sekarang untuk jadi kaya dengan main game slot online.
 
